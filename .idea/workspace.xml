@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -43,7 +43,7 @@
       <updated>1606353803956</updated>
       <workItem from="1606353804994" duration="2001000" />
       <workItem from="1606356074689" duration="52000" />
-      <workItem from="1606356135998" duration="1709000" />
+      <workItem from="1606356135998" duration="3639000" />
     </task>
     <servers />
   </component>
@@ -55,10 +55,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1193" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606356534385" />
-    <state x="922" y="168" key="SettingsEditor" timestamp="1606356210663">
+    <state x="1201" y="264" key="FileChooserDialogImpl" timestamp="1606358554359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606356210663" />
+    <state x="1201" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606358554359" />
+    <state x="922" y="168" key="SettingsEditor" timestamp="1606358556841">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606358556841" />
     <state width="600" height="440" key="javadoc.popup" timestamp="1606354118284">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
