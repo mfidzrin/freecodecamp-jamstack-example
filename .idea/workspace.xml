@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea248d12-4512-4c9b-8786-b25d35746d5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ko4qnjxGtPbIs08B7OhTAsTMA6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fidzr\workspace\jamstack\freecodecamp\src\js" />
+      <recent name="C:\Users\fidzr\workspace\jamstack\freecodecamp\src\_includes" />
+      <recent name="C:\Users\fidzr\workspace\jamstack\freecodecamp\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea248d12-4512-4c9b-8786-b25d35746d5a" name="Default Changelist" comment="" />
+      <created>1606353803956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606353803956</updated>
+      <workItem from="1606353804994" duration="2001000" />
+      <workItem from="1606356074689" duration="52000" />
+      <workItem from="1606356135998" duration="1709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1193" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606356534385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1193" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606356534385" />
+    <state x="922" y="168" key="SettingsEditor" timestamp="1606356210663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606356210663" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1606354118284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606354118284" />
+  </component>
+</project>
